@@ -1,0 +1,98 @@
+---
+settings:
+  name: ONTAP Family
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: ko-kr,us-en,ja-jp,zh-cn,zh-tw
+sidebar:
+  entries:
+  - title: ONTAP 제품 설명서
+    url: "/index.html"
+product-family:
+  search: clouddocs-ontap_main-prod,clouddocs-ontap-cli-9111_main-prod,,clouddocs-ontap-automation_main-prod,clouddocs-ontap-metrocluster_main-prod,clouddocs-ontap-ems-9111_main-prod
+  sidebarlinks:
+  - title: 모두
+    tags: all,tag_data_management,tag_automation,tag_systems,tag_data_protection,tag_data_migration
+    class: active
+  - title: 자동화
+    tags: tag_automation
+  - title: 데이터 관리
+    tags: tag_data_management
+  - title: 데이터 마이그레이션
+    tags: tag_data_migration
+  - title: 데이터 보호
+    tags: tag_data_protection
+  - title: 시스템
+    tags: tag_systems
+  tiles:
+  - title: ONTAP
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/ontap/index.html
+    summary: ONTAP CLI 및 최신 버전의 ONTAP System Manager(ONTAP 9.7 이상)를 사용하여 데이터 센터에 ONTAP
+      9 데이터 관리 소프트웨어를 구축하고 관리하십시오.
+    tags: all, tag_data_management, tag_data_protection
+  - title: ONTAP 자동화
+    icon: "./media/icon-api.png"
+    url: https://docs.netapp.com/us-en/ontap-automation/index.html
+    summary: ONTAP REST API 및 지원 기술을 사용하여 ONTAP 스토리지 시스템을 자동으로 구축하고 관리할 수 있습니다.
+    tags: all, tag_automation, tag_data_management
+  - title: ONTAP 명령
+    icon: "./media/cli.png"
+    url: https://docs.netapp.com/us-en/ontap-cli-9111/
+    summary: ONTAP CLI에서 사용 가능한 명령에 대해 알아보십시오.
+    tags: all, tag_data_management
+  - title: ONTAP MetroCluster
+    icon: "./media/metrocluster.png"
+    url: https://docs.netapp.com/us-en/ontap-metrocluster/
+    summary: 동기식 복제와 함께 어레이 기반 클러스터링을 사용하여 스토리지를 보호하여 지속적인 가용성을 제공합니다.
+    tags: all, tag_data_protection
+  - title: AFF and FAS 설명서
+    icon: "./media/groups_line.png"
+    url: https://docs.netapp.com/us-en/ontap-systems-family/
+    summary: AFF 및 FAS 시스템, 클러스터 및 스토리지 스위치를 설치, 유지 관리 및 업그레이드하는 방법에 대한 자세한 내용은 AFF
+      and FAS 문서 페이지를 참조하십시오.
+    tags: all, tag_systems
+  - title: Cloud Volumes ONTAP
+    icon: "./media/icon-cvo.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
+    summary: ONTAP의 가상 인스턴스를 구축하여 클라우드 스토리지를 보다 경제적이고, 지능적이며, 규정을 준수하고, 안전하게 보호하십시오.
+    tags: all, tag_data_management, tag_data_protection
+  - title: ONTAP EMS 참조
+    icon: "./media/cli.png"
+    url: https://docs.netapp.com/us-en/ontap-ems-9111/
+    summary: ONTAP에서 이벤트 메시징 시스템(EMS) 이벤트에 대해 알아보십시오.
+    tags: all, tag_data_management
+  - title: ONTAP SAN 호스트 구성
+    icon: "./media/server.png"
+    url: https://docs.netapp.com/us-en/ontap-sanhost/
+    summary: NVMe, iSCSI 및 FC 프로토콜을 사용하도록 ONTAP SAN 호스트를 구성합니다.
+    tags: all, tag_data_management
+  - title: ONTAP 시스템 관리자 클래식
+    icon: "./media/config_line.png"
+    url: https://docs.netapp.com/us-en/ontap-sm-classic/index.html
+    summary: ONTAP 9.7 이전에서는 ONTAP System Manager 인터페이스에 대해 서로 다른 레이아웃을 사용합니다.
+    tags: all, tag_data_management
+  - title: ONTAP 7-Mode 전환
+    icon: "./media/transition-tools.png"
+    url: https://docs.netapp.com/us-en/ontap-7mode-transition/
+    summary: 기존 7-Mode에서 최신 클러스터 스토리지 플랫폼으로 데이터 전환
+    tags: all, tag_data_migration
+  - title: ONTAP 외부 LUN 임포트
+    icon: "./media/transition-tools.png"
+    url: https://docs.netapp.com/us-en/ontap-fli/
+    summary: 타사 어레이 및 7-Mode 시스템에서 최신 NetApp 스토리지로 LUN을 마이그레이션합니다.
+    tags: all, tag_data_migration
+  - title: ONTAP Select
+    icon: "./media/server.png"
+    url: https://docs.netapp.com/us-en/ontap-select/
+    summary: VMware ESXi 하이퍼바이저를 실행하는 다양한 일반 하드웨어 서버에 ONTAP를 소프트웨어 정의 스토리지 어플라이언스로
+      구축할 수 있습니다.
+    tags: all, tag_data_management, tag_data_protection
+  - title: ONTAP FlexArray
+    icon: "./media/cli.png"
+    url: https://docs.netapp.com/us-en/ontap-flexarray/
+    summary: 어레이 LUN을 사용하여 E-Series 및 타사 어레이를 ONTAP에서 지원하는 스토리지로 제공합니다.
+    tags: all, tag_data_management
