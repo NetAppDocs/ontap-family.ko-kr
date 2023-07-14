@@ -49,12 +49,17 @@ product-family:
     url: https://docs.netapp.com/us-en/ontap-metrocluster/
     summary: 동기식 복제와 함께 어레이 기반 클러스터링을 사용하여 스토리지를 보호하여 지속적인 가용성을 제공합니다.
     tags: all, tag_data_protection
-  - title: AFF and FAS 설명서
+  - title: AFF A 시리즈 및 C 시리즈, FAS, 모든 SAN 어레이 및 스위치
     icon: "./media/groups_line.png"
     url: https://docs.netapp.com/us-en/ontap-systems-family/
     summary: AFF 및 FAS 시스템, 클러스터 및 스토리지 스위치를 설치, 유지 관리 및 업그레이드하는 방법에 대한 자세한 내용은 AFF
       and FAS 문서 페이지를 참조하십시오.
     tags: all, tag_systems
+  - title: ONTAP 기술 보고서
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/ontap-technical-reports/index.html
+    summary: ONTAP 아키텍처 및 특정 워크로드 및 환경에 맞게 ONTAP를 최적화하는 방법에 대해 자세히 알아보십시오.
+    tags: all, tag_data_management, tag_data_protection
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
