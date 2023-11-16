@@ -31,8 +31,8 @@ product-family:
   - title: ONTAP
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/ontap/index.html
-    summary: ONTAP CLI 및 최신 버전의 ONTAP System Manager(ONTAP 9.7 이상)를 사용하여 데이터 센터에 ONTAP
-      9 데이터 관리 소프트웨어를 구축하고 관리하십시오.
+    summary: ONTAP System Manager 및 ONTAP CLI를 사용하여 데이터 센터에 ONTAP 9 데이터 관리 소프트웨어를
+      구축하고 관리하십시오.
     tags: all, tag_data_management, tag_data_protection
   - title: ONTAP 자동화
     icon: "./media/icon-api.png"
@@ -49,11 +49,11 @@ product-family:
     url: https://docs.netapp.com/us-en/ontap-metrocluster/
     summary: 동기식 복제와 함께 어레이 기반 클러스터링을 사용하여 스토리지를 보호하여 지속적인 가용성을 제공합니다.
     tags: all, tag_data_protection
-  - title: AFF A 시리즈 및 C 시리즈, FAS, 모든 SAN 어레이 및 스위치
+  - title: AFF A-Series 및 C-Series, FAS, All-Flash SAN 어레이 및 스위치
     icon: "./media/groups_line.png"
     url: https://docs.netapp.com/us-en/ontap-systems-family/
-    summary: AFF 및 FAS 시스템, 클러스터 및 스토리지 스위치를 설치, 유지 관리 및 업그레이드하는 방법에 대한 자세한 내용은 AFF
-      and FAS 문서 페이지를 참조하십시오.
+    summary: AFF, FAS, All-Flash SAN 어레이 시스템과 클러스터 및 스토리지 스위치를 설치, 유지보수, 업그레이드하는 방법에
+      대해 알아보십시오.
     tags: all, tag_systems
   - title: ONTAP 기술 보고서
     icon: "./media/icon-onprem.png"
