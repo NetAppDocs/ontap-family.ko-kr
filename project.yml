@@ -1,7 +1,7 @@
 ---
 settings:
   name: ONTAP
-  search: ontap,ontap-cli-9141,ontap-automation,ontap-metrocluster
+  search: ontap,ontap-cli-9141,ontap-automation,ontap-metrocluster,ontap-systems-switches,ontap-technical-reports,ontap-sanhost
   internal:
     pdf_enabled: false
   prod:
@@ -75,7 +75,7 @@ product-family:
     url: https://docs.netapp.com/us-en/ontap-sanhost/
     summary: NVMe, iSCSI 및 FC 프로토콜을 사용하도록 ONTAP SAN 호스트를 구성합니다.
     tags: all, tag_data_management
-  - title: ONTAP 시스템 관리자 클래식
+  - title: ONTAP System Manager(ONTAP 9.7 이하)
     icon: "./media/config_line.png"
     url: https://docs.netapp.com/us-en/ontap-sm-classic/index.html
     summary: ONTAP 9.7 이전에서는 ONTAP System Manager 인터페이스에 대해 서로 다른 레이아웃을 사용합니다.
