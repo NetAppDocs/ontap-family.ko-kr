@@ -62,7 +62,7 @@ product-family:
     tags: all, tag_data_management, tag_data_protection
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
+    url: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html
     summary: ONTAP의 가상 인스턴스를 구축하여 클라우드 스토리지를 보다 경제적이고, 지능적이며, 규정을 준수하고, 안전하게 보호하십시오.
     tags: all, tag_data_management, tag_data_protection
   - title: ONTAP EMS 참조
