@@ -1,0 +1,84 @@
+---
+product-family:
+  title: ONTAP 제품 설명서
+  lead: ONTAP를 사용하면 스토리지 인프라를 구축하여 비용을 절감하고, 중요 워크로드를 더 빨리 처리하고, 데이터를 보호 및 보호할 수 있습니다.
+  summary: ONTAP를 사용하면 스토리지 인프라를 구축하여 비용을 절감하고, 중요 워크로드를 더 빨리 처리하고, 데이터를 보호 및 보호할
+    수 있습니다.
+  sidebarlinks:
+  - title: 모두
+    tags: all
+    class: active
+  - title: 자동화
+    tags: automation
+  - title: 데이터 관리
+    tags: management
+  - title: 데이터 마이그레이션
+    tags: migration
+  - title: 데이터 보호
+    tags: protection
+  - title: 하드웨어 시스템
+    tags: hardware
+  tiles:
+  - title: AFF, ASA 및 FAS 시스템을 위한 ONTAP 9
+    icon: "./media/icon-onprem.png"
+    url: "../ontap/index.html"
+    summary: ONTAP 소프트웨어를 사용하여 All-Flash FAS 시스템, All-Flash SAN 어레이 시스템 및 FAS 하이브리드
+      플래시 어레이의 데이터를 관리할 수 있습니다.
+    tags: all, management, protection
+  - title: AFF, ASA 및 FAS 시스템에서 사용할 수 있습니다
+    icon: "./media/groups_line.png"
+    url: "../ontap-systems-family/index.html"
+    summary: All-Flash FAS 시스템, All-Flash SAN 어레이 시스템 및 FAS 하이브리드 플래시 어레이를 설치, 유지
+      관리 및 업그레이드하는 방법에 대해 알아보십시오.
+    tags: all, hardware
+  - title: ASA r2 시스템
+    icon: "./media/groups_line.png"
+    url: "../asa-r2/index.html"
+    summary: ASA R2 시스템을 설치하고 ONTAP를 사용하여 데이터를 관리합니다.
+    tags: all, hardware
+  - title: ONTAP MetroCluster
+    icon: "./media/metrocluster.png"
+    url: "../ontap-metrocluster/index.html"
+    summary: 동기식 복제와 함께 어레이 기반 클러스터링을 사용하여 스토리지를 보호하여 지속적인 가용성을 제공합니다.
+    tags: all, protection
+  - title: ONTAP SAN 호스트 구성
+    icon: "./media/server.png"
+    url: "../ontap-sanhost/index.html"
+    summary: NVMe, iSCSI 및 FC 프로토콜을 사용하도록 ONTAP SAN 호스트를 구성합니다.
+    tags: all, management
+  - title: ONTAP 기술 보고서
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-technical-reports/index.html"
+    summary: ONTAP 아키텍처 및 특정 워크로드 및 환경에 맞게 ONTAP를 최적화하는 방법에 대해 자세히 알아보십시오.
+    tags: all, management, protection
+  - title: ONTAP 명령
+    icon: "./media/cli.png"
+    url: https://docs.netapp.com/us-en/ontap-cli/index.html
+    summary: ONTAP CLI에서 사용 가능한 명령에 대해 알아보십시오.
+    tags: all, management
+  - title: ONTAP EMS 참조
+    icon: "./media/cli.png"
+    url: https://docs.netapp.com/us-en/ontap-ems/index.html
+    summary: ONTAP에서 이벤트 메시징 시스템(EMS) 이벤트에 대해 알아보십시오.
+    tags: all, management
+  - title: ONTAP 자동화
+    icon: "./media/icon-api.png"
+    url: "../ontap-automation/index.html"
+    summary: ONTAP REST API 및 지원 기술을 사용하여 ONTAP 스토리지 시스템을 자동으로 구축하고 관리할 수 있습니다.
+    tags: all, automation, management
+  - title: Cloud Volumes ONTAP
+    icon: "./media/icon-cvo.png"
+    url: "../cloud-manager-cloud-volumes-ontap/index.html"
+    summary: ONTAP의 가상 인스턴스를 구축하여 클라우드 스토리지를 보다 경제적이고, 지능적이며, 규정을 준수하고, 안전하게 보호하십시오.
+    tags: all, management, protection
+  - title: ONTAP Select
+    icon: "./media/server.png"
+    url: "../ontap-select/index.html"
+    summary: VMware ESXi 하이퍼바이저를 실행하는 다양한 일반 하드웨어 서버에 ONTAP를 소프트웨어 정의 스토리지 어플라이언스로
+      구축할 수 있습니다.
+    tags: all, management, protection
+  - title: ONTAP 외부 LUN 임포트
+    icon: "./media/transition-tools.png"
+    url: "../ontap-fli/index.html"
+    summary: 타사 어레이 및 7-Mode 시스템에서 최신 NetApp 스토리지로 LUN 마이그레이션
+    tags: all, migration
