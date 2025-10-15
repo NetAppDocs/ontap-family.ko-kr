@@ -4,7 +4,6 @@
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">모두</block>
   <block id="caea8340e2d186a540518d08602aa065" category="sidebar">자동화</block>
   <block id="198010d8bf8a3ff0f084ffd059a9a1da" category="sidebar">데이터 관리</block>
-  <block id="5866b98c049a53ea6dc7f50f9349f434" category="sidebar">데이터 마이그레이션</block>
   <block id="7e7397a7b79323762c61941fc0e6b5f9" category="sidebar">데이터 보호</block>
   <block id="cd0da2f9fb1b99c1f4461a4e987db162" category="sidebar">ONTAP REST API 및 지원 기술을 사용하여 ONTAP 스토리지 시스템을 자동으로 구축하고 관리할 수 있습니다.</block>
   <block id="4e562da2b893fe742016a3ccfd5b1e84" category="sidebar">ONTAP 명령</block>
@@ -15,7 +14,6 @@
   <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">ONTAP의 가상 인스턴스를 구축하여 클라우드 스토리지를 보다 경제적이고, 지능적이며, 규정을 준수하고, 안전하게 보호하십시오.</block>
   <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">ONTAP에서 이벤트 메시징 시스템(EMS) 이벤트에 대해 알아보십시오.</block>
   <block id="2aadcbf0b77f52d06244b76c0aea1a12" category="sidebar">NVMe, iSCSI 및 FC 프로토콜을 사용하도록 ONTAP SAN 호스트를 구성합니다.</block>
-  <block id="3be720072e03679f7ed0f85258130b70" category="sidebar">ONTAP 외부 LUN 임포트</block>
   <block id="3a3a5cd068731551120f43f37950768b" category="sidebar">ONTAP Select</block>
   <block id="3a77755c4eaf7897cda1f7db8e722428" category="sidebar">ONTAP 자동화</block>
   <block id="4434424bd2c1011098a508e85df56b94" category="sidebar">ONTAP 기술 보고서</block>
@@ -30,6 +28,7 @@
   <block id="fde1abb5537b55c34521d414267b3f70" category="sidebar">ASA r2 시스템</block>
   <block id="942e7b614fd14bfa73ca3ead7a074727" category="sidebar">ASA R2 시스템을 설치하고 ONTAP를 사용하여 데이터를 관리합니다.</block>
   <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">VMware ESXi 하이퍼바이저를 실행하는 다양한 일반 하드웨어 서버에 ONTAP를 소프트웨어 정의 스토리지 어플라이언스로 구축할 수 있습니다.</block>
-  <block id="b2934159aedd460ca247425783b1dc65" category="sidebar">타사 어레이 및 7-Mode 시스템에서 최신 NetApp 스토리지로 LUN 마이그레이션</block>
   <block id="6b5b170d11f85aa7605678eed04a62cf" category="sidebar">ONTAP를 사용하면 스토리지 인프라를 구축하여 비용을 절감하고, 중요 워크로드를 더 빨리 처리하고, 데이터를 보호 및 보호할 수 있습니다.</block>
+  <block id="9e1c8cf536b61ced9a099cdc8d9a7ea5" category="sidebar">AFX 시스템</block>
+  <block id="e187c97468fbf8588e709948e3975e74" category="sidebar">AFX 시스템을 설치하고 ONTAP 사용하여 데이터를 관리하세요.</block>
 </blocks>
